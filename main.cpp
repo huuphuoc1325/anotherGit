@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main(){
-    std::cout << "doi thu cho vui";
+    std::cout << "tao doi lai";
 }
